@@ -25,6 +25,6 @@ Currently focused on Python, ML, and chatbot development — especially building
 ## 📫 Contact
 
 Let’s connect on AI, automation, or collaboration:  
-- Telegram: [@suriyaj7]  
+- Telegram: [KJ7](Suriyaj7) 
 - Email: [jaletokeneisa7@gmail.com]  
 - LinkedIn: [Kenenisa Jaleto](https://www.linkedin.com/in/kenenisa-jaleto-751a26356/)
