@@ -1,26 +1,41 @@
-# 👋 Kenenisa Jaleto
+# 👋 Hi, I’m Kenenisa Jaleto
 
-Aspiring AI developer passionate about building intelligent tools that combine machine learning, automation, and natural language processing (NLP).
+💡 I'm an aspiring **AI Developer** and **Frontend Web Developer** from Ethiopia.
 
-Currently focused on Python, ML, and chatbot development — especially building smart assistants and data-driven tools for real-world use.
-
----
-
-## 🚀 Interests
-
-- NLP-powered chatbots for businesses and services  
-- AI automation to improve workflows and decision-making  
-- Data analysis and visualization for smart insights  
+I'm learning by building real-world tools that solve local problems — like chatbots, dashboards, calculators, and websites.
 
 ---
 
-## 📂 Projects in Progress
-
-- Data Analyzer – Python tool that generates visual reports from CSV data  
-- Bilingual Chatbot – Amharic-English support assistant for FAQs  
-- ML Prediction Model – Forecasting trends like market prices or user activity  
+## 🔧 Skills
+- 💻 Python, NumPy, pandas
+- 🌐 HTML, CSS, JavaScript
+- 📊 Matplotlib, Data Visualization
+- 🤖 AI Chatbots, ML (early stage)
+- 📂 Git, GitHub, VS Code
 
 ---
+
+## 🚀 Projects I'm Working On
+
+- 🧮 **Local Expense Calculator**  
+  Simple tool to calculate small daily expenses using Python & NumPy
+
+- 🌐 **Portfolio Website**  
+  My personal website built with HTML + CSS and hosted with GitHub Pages
+
+- 💬 **AI Chatbot (Amharic + English)**  
+  Early-stage chatbot for small businesses in Ethiopia
+
+- 🚛 **Daily Truck Expense Tracker**  
+  App to help truck drivers log income, fuel, repairs, and calculate profit
+
+---
+
+## 🧰 Tools I Use
+<img src="https://skillicons.dev/icons?i=python,html,css,js,vscode,github,figma,linux" height="35" />
+
+---
+
 
 ## 📫 Contact
 
