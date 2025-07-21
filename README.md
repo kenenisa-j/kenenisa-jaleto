@@ -16,6 +16,8 @@ I'm learning by building real-world tools that solve local problems — like cha
 ---
 
 ## 🚀 Projects I'm Working On
+- 🧠 **AI News Scheduler**  
+  A simple  Python tool that fetches 📰 AI news and sends it to Telegram on a schedule .
 
 - 🧮 **Local Expense Calculator**  
   Simple tool to calculate small daily expenses using Python & NumPy
