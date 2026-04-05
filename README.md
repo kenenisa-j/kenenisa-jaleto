@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kenenisa Jaleto  
 
-### Full-Stack Developer & AI/ML Engineer  
+### 🚀 Full-Stack Developer & AI/ML Engineer  
 
 I design and build intelligent systems — combining AI with scalable web applications to solve real-world problems.  
 My focus is not just writing code, but creating products that are useful, structured, and built with purpose.
@@ -11,16 +11,16 @@ My focus is not just writing code, but creating products that are useful, struct
 
 <p align="left">
   <a href="https://github.com/kenenisa-j">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github" />
   </a>
   <a href="https://www.linkedin.com/in/kenenisa-jaleto-751a26356/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin" />
   </a>
   <a href="mailto:Kenenisajaleto7@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Message-D14836?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Message-D14836?style=flat&logo=gmail" />
   </a>
   <a href="tel:+251962629009">
-    <img src="https://img.shields.io/badge/Phone-Contact-25D366?style=for-the-badge&logo=whatsapp" />
+    <img src="https://img.shields.io/badge/Phone-Contact-25D366?style=flat&logo=whatsapp" />
   </a>
 </p>
 
@@ -29,7 +29,7 @@ My focus is not just writing code, but creating products that are useful, struct
 ## 🧠 About Me  
 
 I’m a Computer Engineering student who is also studying Computer Science in parallel.  
-I’m deeply interested in **Artificial Intelligence, system design, and full-stack development**.
+I’m deeply interested in Artificial Intelligence, system design, and full-stack development.
 
 What drives me is building systems that actually work in real situations — not just simple projects, but platforms with structure, logic, and purpose.  
 
@@ -38,26 +38,39 @@ I like thinking in terms of:
 - How users interact with products  
 - How AI can improve real workflows  
 
-Right now, I’m focused on becoming a **strong software engineer who can design and build complete systems from scratch**.
+Right now, I’m focused on becoming a strong software engineer who can design and build complete systems from scratch.
 
 ---
 
 ## 🛠️ Technical Skills  
 
-**Languages**  
-Python, JavaScript, TypeScript  
+### Frontend  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-**Frontend**  
-React, Next.js, HTML, CSS  
+---
 
-**Backend**  
-Node.js, Express  
+### Backend  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 
-**AI / ML**  
-TensorFlow, Scikit-learn, Pandas  
+---
 
-**Tools**  
-Git, GitHub, MongoDB, Firebase  
+### AI / ML  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+
+---
+
+### Databases & Tools  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
 
@@ -66,44 +79,49 @@ Git, GitHub, MongoDB, Firebase
 ### 🎬 Netflix Clone  
 A full-stack streaming interface inspired by modern platforms.  
 Built with a focus on clean UI, authentication flow, and responsive design.  
-This project helped me understand how real-world frontends are structured.
+👉 Focus: frontend structure + user experience  
 
 ---
 
 ### 🧬 Breast Cancer Detection App  
 A machine learning-based system for predicting cancer risk.  
-Focused on applying ML to a real-world problem, including data processing and model evaluation.
+Focused on applying ML to a real-world problem, including data processing and model evaluation.  
+👉 Focus: ML + real-world application  
 
 ---
 
 ### 📄 Resume Analyzer  
 An AI-powered tool that analyzes resumes and provides improvement suggestions.  
-This project explores how NLP concepts can be used to build practical career tools.
+This project explores how NLP concepts can be used to build practical career tools.  
+👉 Focus: AI + NLP  
 
 ---
 
 ### 💬 Feedback System  
 A structured platform for collecting and managing feedback.  
-Designed to be simple, scalable, and usable for teams, events, or organizations.
+Designed to be simple, scalable, and usable for teams, events, or organizations.  
+👉 Focus: scalability + system design  
 
 ---
 
 ### 🛒 Amazon Clone  
 A full-stack e-commerce system with product flow, cart, and user interaction.  
-Built to understand backend logic, data handling, and user experience.
+Built to understand backend logic, data handling, and user experience.  
+👉 Focus: backend + system architecture  
 
 ---
 
 ### ⚙️ TechFlow  
 A knowledge-sharing and workflow platform inspired by StackOverflow.  
 Focused on structured problem-solving, developer interaction, and organized content flow.  
-This project reflects my interest in building systems around communities and knowledge.
+👉 Focus: system design + community platform  
 
 ---
 
 ### 📰 AI News Scheduler  
 An automated system that fetches, processes, and schedules news content.  
-Combines automation with intelligent handling of information.
+Combines automation with intelligent handling of information.  
+👉 Focus: automation + AI  
 
 ---
 
@@ -111,10 +129,10 @@ Combines automation with intelligent handling of information.
 
 The projects that best represent my direction:
 
-- AI Resume Analyzer → practical AI application  
-- Breast Cancer Detection → ML in real-world use  
-- TechFlow → system design + platform thinking  
-- AI News Scheduler → automation + intelligence  
+- 🧠 AI Resume Analyzer → practical AI application  
+- 🧬 Breast Cancer Detection → ML in real-world use  
+- ⚙️ TechFlow → system design + platform thinking  
+- 📰 AI News Scheduler → automation + intelligence  
 
 ---
 
@@ -132,31 +150,32 @@ Right now, I’m focused on improving:
 
 ### 🌐 Ethiostack / HabeshaStack  
 A developer platform inspired by StackOverflow, focused on structured Q&A and knowledge sharing.  
-The goal is to build a system where developers can learn, contribute, and grow through community interaction.
 
 ---
 
 ### 🏋️ AI Fitness Coach  
 A personalized system that tracks user activity and provides intelligent fitness recommendations.  
-Focused on combining user data with AI-driven insights.
 
 ---
 
 ### 🤖 AI Customer Support System  
 An AI-powered chatbot system designed for real businesses.  
-The idea is to automate communication, reduce workload, and improve customer experience.
 
 ---
 
 ### 📊 Advanced Resume Intelligence Platform  
-An upgraded version of the Resume Analyzer.  
-Not just analyzing resumes, but guiding users with smarter career insights and recommendations.
+An upgraded version of the Resume Analyzer with deeper career insights.  
 
 ---
 
 ## 🎯 Vision  
 
-To become an engineer who builds systems that are **intelligent, scalable, and meaningful** — not just functional, but impactful.
+To become an engineer who builds systems that are:  
+- Intelligent  
+- Scalable  
+- Meaningful  
+
+Not just functional — but impactful.
 
 ---
 
