@@ -191,6 +191,7 @@ Not just functional but impactful.
     <img src="https://img.shields.io/badge/Phone-Contact-25D366?style=flat&logo=whatsapp" />
   </a>
 </p>
+---
 ## ⚡ Final Note  
 
 I don’t just learn technologies I use them to build systems that reflect how real software works.
