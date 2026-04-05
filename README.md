@@ -2,14 +2,11 @@
 
 ### 🚀 Full-Stack Developer & AI/ML Engineer  
 
-I design and build intelligent systems — combining AI with scalable web applications to solve real-world problems.  
+I design and build intelligent systems combining AI with scalable web applications to solve real-world problems.  
 My focus is not just writing code, but creating products that are useful, structured, and built with purpose.
 
 ---
-
-## 🤝 Connect With Me  
-
-<p align="left">
+ <p align="left">
   <a href="https://github.com/kenenisa-j">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github" />
   </a>
@@ -31,7 +28,7 @@ My focus is not just writing code, but creating products that are useful, struct
 I’m a Computer Engineering student who is also studying Computer Science in parallel.  
 I’m deeply interested in Artificial Intelligence, system design, and full-stack development.
 
-What drives me is building systems that actually work in real situations — not just simple projects, but platforms with structure, logic, and purpose.  
+What drives me is building systems that actually work in real situations not just simple projects, but platforms with structure, logic, and purpose.  
 
 I like thinking in terms of:
 - How systems scale  
@@ -85,7 +82,7 @@ Built with a focus on clean UI, authentication flow, and responsive design.
 
 ### 🧬 Breast Cancer Detection App  
 A machine learning-based system for predicting cancer risk.  
-Focused on applying ML to a real-world problem, including data processing and model evaluation.  
+Focused on applying ML to a realworld problem, including data processing and model evaluation.  
 👉 Focus: ML + real-world application  
 
 ---
@@ -175,10 +172,25 @@ To become an engineer who builds systems that are:
 - Scalable  
 - Meaningful  
 
-Not just functional — but impactful.
+Not just functional but impactful.
 
 ---
+## 🤝 Connect With Me  
 
+<p align="left">
+  <a href="https://github.com/kenenisa-j">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/kenenisa-jaleto-751a26356/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin" />
+  </a>
+  <a href="mailto:Kenenisajaleto7@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Message-D14836?style=flat&logo=gmail" />
+  </a>
+  <a href="tel:+251962629009">
+    <img src="https://img.shields.io/badge/Phone-Contact-25D366?style=flat&logo=whatsapp" />
+  </a>
+</p>
 ## ⚡ Final Note  
 
-I don’t just learn technologies — I use them to build systems that reflect how real software works.
+I don’t just learn technologies I use them to build systems that reflect how real software works.
