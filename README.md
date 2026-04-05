@@ -25,7 +25,7 @@ My focus is not just writing code, but creating products that are useful, struct
 
 ## 🧠 About Me  
 
-I’m a Computer Engineering student who is also studying Computer Science in parallel.  
+I’m an Electrical and Computer Engineering student at Addis Ababa University, also pursuing Computer Science in parallel.  
 I’m deeply interested in Artificial Intelligence, system design, and full-stack development.
 
 What drives me is building systems that actually work in real situations not just simple projects, but platforms with structure, logic, and purpose.  
