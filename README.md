@@ -191,7 +191,6 @@ Not just functional but impactful.
     <img src="https://img.shields.io/badge/Phone-Contact-25D366?style=flat&logo=whatsapp" />
   </a>
 </p>
----
 
 
 
