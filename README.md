@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Kenenisa Jaleto  
 
-### 🚀 Full-Stack Developer | 🤖 AI/ML Engineer  
+### Full-Stack Developer & AI/ML Engineer  
 
-I build intelligent, real-world applications by combining **AI, scalable backend systems, and modern web technologies**.  
-Focused on creating solutions that go beyond tutorials — systems that solve real problems and can scale.
+I design and build intelligent systems — combining AI with scalable web applications to solve real-world problems.  
+My focus is not just writing code, but creating products that are useful, structured, and built with purpose.
 
 ---
 
@@ -17,10 +17,10 @@ Focused on creating solutions that go beyond tutorials — systems that solve re
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:Kenenisajaleto7@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Send_Message-D14836?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Message-D14836?style=for-the-badge&logo=gmail" />
   </a>
   <a href="tel:+251962629009">
-    <img src="https://img.shields.io/badge/Phone-Call_Me-25D366?style=for-the-badge&logo=whatsapp" />
+    <img src="https://img.shields.io/badge/Phone-Contact-25D366?style=for-the-badge&logo=whatsapp" />
   </a>
 </p>
 
@@ -28,99 +28,138 @@ Focused on creating solutions that go beyond tutorials — systems that solve re
 
 ## 🧠 About Me  
 
-I am a Computer Engineering student at Addis Ababa University, also studying Computer Science in a parallel program.  
+I’m a Computer Engineering student who is also studying Computer Science in parallel.  
+I’m deeply interested in **Artificial Intelligence, system design, and full-stack development**.
 
-I’m passionate about **Artificial Intelligence, full-stack development, and system design**. I enjoy building projects that involve real logic, real users, and real-world impact rather than simple demos.  
+What drives me is building systems that actually work in real situations — not just simple projects, but platforms with structure, logic, and purpose.  
 
-Currently, I’m focused on improving my engineering depth, building scalable systems, and creating platforms that can serve real communities.
+I like thinking in terms of:
+- How systems scale  
+- How users interact with products  
+- How AI can improve real workflows  
+
+Right now, I’m focused on becoming a **strong software engineer who can design and build complete systems from scratch**.
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Technical Skills  
 
 **Languages**  
-`Python` `JavaScript` `TypeScript`  
+Python, JavaScript, TypeScript  
 
 **Frontend**  
-`React` `Next.js` `HTML` `CSS`  
+React, Next.js, HTML, CSS  
 
 **Backend**  
-`Node.js` `Express`  
+Node.js, Express  
 
 **AI / ML**  
-`TensorFlow` `Scikit-learn` `Pandas`  
+TensorFlow, Scikit-learn, Pandas  
 
 **Tools**  
-`Git` `GitHub` `MongoDB` `Firebase`  
+Git, GitHub, MongoDB, Firebase  
 
 ---
 
 ## 🚀 Projects  
 
-- 🎬 **Netflix Clone** – Streaming UI with authentication & responsive design  
-- 🧬 **Breast Cancer Detection App** – ML-based prediction system  
-- 📄 **Resume Analyzer** – AI-powered CV analysis tool  
-- 💬 **Feedback System** – Structured feedback platform  
-- 🛒 **Amazon Clone** – Full-stack e-commerce system  
-- ⚙️ **TechFlow** – Workflow & productivity platform  
-- 📰 **AI News Scheduler** – Automated content system  
+### 🎬 Netflix Clone  
+A full-stack streaming interface inspired by modern platforms.  
+Built with a focus on clean UI, authentication flow, and responsive design.  
+This project helped me understand how real-world frontends are structured.
 
 ---
 
-## ⭐ Featured Projects  
-
-- 🧠 **AI Resume Analyzer**  
-- 🧬 **Breast Cancer Detection System**  
-- ⚙️ **TechFlow**  
-- 📰 **AI News Scheduler**  
+### 🧬 Breast Cancer Detection App  
+A machine learning-based system for predicting cancer risk.  
+Focused on applying ML to a real-world problem, including data processing and model evaluation.
 
 ---
 
-## 🔬 Currently Exploring  
+### 📄 Resume Analyzer  
+An AI-powered tool that analyzes resumes and provides improvement suggestions.  
+This project explores how NLP concepts can be used to build practical career tools.
 
-- Scalable system design  
-- AI integration in real applications  
-- Backend architecture & performance  
-- Developer-focused platforms  
+---
+
+### 💬 Feedback System  
+A structured platform for collecting and managing feedback.  
+Designed to be simple, scalable, and usable for teams, events, or organizations.
+
+---
+
+### 🛒 Amazon Clone  
+A full-stack e-commerce system with product flow, cart, and user interaction.  
+Built to understand backend logic, data handling, and user experience.
+
+---
+
+### ⚙️ TechFlow  
+A knowledge-sharing and workflow platform inspired by StackOverflow.  
+Focused on structured problem-solving, developer interaction, and organized content flow.  
+This project reflects my interest in building systems around communities and knowledge.
+
+---
+
+### 📰 AI News Scheduler  
+An automated system that fetches, processes, and schedules news content.  
+Combines automation with intelligent handling of information.
+
+---
+
+## ⭐ Featured Work  
+
+The projects that best represent my direction:
+
+- AI Resume Analyzer → practical AI application  
+- Breast Cancer Detection → ML in real-world use  
+- TechFlow → system design + platform thinking  
+- AI News Scheduler → automation + intelligence  
+
+---
+
+## 🔬 What I’m Working On  
+
+Right now, I’m focused on improving:  
+- System design thinking  
+- Backend architecture  
+- AI integration into real products  
+- Building projects that are closer to production-level  
 
 ---
 
 ## 🚀 Future Projects  
 
-- 🌐 **Ethiostack / HabeshaStack**  
-  Developer Q&A platform inspired by StackOverflow  
-
-- 🏋️ **AI Fitness Coach**  
-  Personalized AI-based fitness system  
-
-- 🤖 **AI Customer Support System**  
-  Smart chatbot solutions for real businesses  
-
-- 📊 **Advanced Resume Intelligence Platform**  
-  Next-level AI career assistant  
+### 🌐 Ethiostack / HabeshaStack  
+A developer platform inspired by StackOverflow, focused on structured Q&A and knowledge sharing.  
+The goal is to build a system where developers can learn, contribute, and grow through community interaction.
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kenenisa-j&show_icons=true&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenenisa-j&layout=compact" />
-</p>
+### 🏋️ AI Fitness Coach  
+A personalized system that tracks user activity and provides intelligent fitness recommendations.  
+Focused on combining user data with AI-driven insights.
 
 ---
 
-## ⚡ Philosophy  
-
-I believe in **learning by building** — every project I create is a step toward mastering real-world engineering.
+### 🤖 AI Customer Support System  
+An AI-powered chatbot system designed for real businesses.  
+The idea is to automate communication, reduce workload, and improve customer experience.
 
 ---
 
-## 👀 Profile Views  
+### 📊 Advanced Resume Intelligence Platform  
+An upgraded version of the Resume Analyzer.  
+Not just analyzing resumes, but guiding users with smarter career insights and recommendations.
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=kenenisa-j&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+---
+
+## 🎯 Vision  
+
+To become an engineer who builds systems that are **intelligent, scalable, and meaningful** — not just functional, but impactful.
+
+---
+
+## ⚡ Final Note  
+
+I don’t just learn technologies — I use them to build systems that reflect how real software works.
