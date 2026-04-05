@@ -192,6 +192,9 @@ Not just functional but impactful.
   </a>
 </p>
 ---
+
+
+
 ## ⚡ Final Note  
 
 I don’t just learn technologies I use them to build systems that reflect how real software works.
